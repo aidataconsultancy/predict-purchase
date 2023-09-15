@@ -1,6 +1,5 @@
 streamlit
 pandas
-pickle 
 altair
 matplotlib.pyplot
 pandas_profiling
