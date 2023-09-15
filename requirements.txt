@@ -1,0 +1,7 @@
+streamlit
+pandas
+pickle 
+altair
+matplotlib.pyplot
+pandas_profiling
+streamlit_pandas_profiling
